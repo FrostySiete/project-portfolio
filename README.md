@@ -1,6 +1,6 @@
 # project-portfolio
 Collection of Projects done through classes, research, or for personal purposes
 
-1. kHands Chopsticks Solver
-2. Collection of Games for Untro Game Development Course: Asteroids, Blackjack/21, Sokoban, Forest Pies(Farming Game)
+1. kHands Chopsticks Solver for Functional Languages Course [here](https://github.com/TU-CSCI2322-FL23/solver-k-chops)
+2. Collection of Games for Intro Game Development Course: Asteroids, Blackjack/21, Sokoban, Forest Pies(Farming Game)
    [Link to my Itch.io Profile](https://sevenaguirre.itch.io/)
